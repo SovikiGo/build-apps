@@ -1,5 +1,10 @@
 # Automation for Doki (Source code)
 
+> [!IMPORTANT]
+> We have officially moved to 夢見 [Project], you can find us [here](https://github.com/YumemiProject) (for source code).
+> Thanks to Jerry, Draken and [Yaka Team](https://github.com/YakaTeam) for helping us release that app.
+> You can find and download 夢見 [Project] at [here](https://github.com/YakaTeam/). Shout out to Yaka Team!
+
 ### Please give the repo a :star:
 
 ### Usage
